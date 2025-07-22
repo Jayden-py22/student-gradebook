@@ -10,7 +10,7 @@ public class Student {
         this.name = name;
     }
 
-    public void addGrade(int grade) {1
+    public void addGrade(int grade) {
         grades.add(grade);
     }
 
